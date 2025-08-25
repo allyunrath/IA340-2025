@@ -6,9 +6,16 @@ this is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&co
 
 ## content
 
-1. lab1
-2. lab2
-3. lab3
+1. lab1 (jupyter notebook)
+2. lab2 (pyhthon scripts)
+3. lab3 (lab simulation)
+4. lab4 (project documentaion)
+
+   ### contact
+   1. alexandra unrath
+   2. UNRATHAE@dukes.jmu.edu
 
 - mini project
-- final project 
+- final project
+
+  
